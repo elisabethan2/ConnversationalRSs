@@ -1,0 +1,43 @@
+layer,term,ambiguous,n_records,n_records_near_node
+CA_core,adjacency pair,False,0,0
+CA_core,adjacency pairs,False,0,0
+CA_core,co-construction,False,0,0
+CA_core,first pair part,False,0,0
+CA_core,intersubjectivity,False,0,0
+CA_core,membership categorisation,False,0,0
+CA_core,membership categorization,False,0,0
+CA_core,other-repair,False,0,0
+CA_core,preference organisation,False,0,0
+CA_core,preference organization,False,0,0
+CA_core,recipient design,False,0,0
+CA_core,repair,True,0,0
+CA_core,repair sequence,False,0,0
+CA_core,second pair part,False,0,0
+CA_core,self-repair,False,0,0
+CA_core,sequence organization,False,0,0
+CA_core,sequential organisation,False,0,0
+CA_core,sequential organization,False,0,0
+CA_core,transition relevance,False,0,0
+CA_core,turn allocation,False,0,0
+CA_core,turn construction,False,0,0
+CA_core,turn-taking,False,0,0
+hci_cui,mixed-initiative,False,7,5
+hci_cui,rapport,False,5,4
+hci_cui,naturalness,True,4,2
+hci_cui,anthropomorphism,False,3,1
+hci_cui,breakdown,True,1,1
+hci_cui,conversational breakdown,False,0,0
+hci_cui,conversational repair,False,0,0
+hci_cui,error recovery,False,0,0
+hci_cui,miscommunication,False,0,0
+hci_cui,mixed initiative,False,0,0
+pragmatics,common ground,True,2,1
+pragmatics,politeness,False,1,0
+pragmatics,face-work,False,0,0
+pragmatics,facework,False,0,0
+pragmatics,footing,False,0,0
+pragmatics,impoliteness,False,0,0
+pragmatics,social action,False,0,0
+pragmatics,speech act,False,0,0
+pragmatics,speech acts,False,0,0
+pragmatics,stance,True,0,0

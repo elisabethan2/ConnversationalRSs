@@ -1,0 +1,91 @@
+Layer,Term,Source,Records,Records near a node word,Status
+Conversation analysis (interaction-as-object),coherence,Sidnell & Stivers (2012),8,5,"Excluded — response fluency/quality, not sequential coherence"
+Conversation analysis (interaction-as-object),next turn,Sidnell & Stivers (2012),4,1,"Excluded — system's next action step, not the CA next turn"
+Conversation analysis (interaction-as-object),overlap,Sidnell & Stivers (2012),4,0,"Excluded — data/feature overlap, not turn overlap"
+Conversation analysis (interaction-as-object),action formation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),adjacency pair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),adjacency pairs,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),dispreferred,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),first pair part,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),first-pair part,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),insert expansion,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),intersubjectivity,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),membership categorisation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),membership categorization,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),next-speaker selection,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),nextness,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),other-initiated repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),other-repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),overall structural organization,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),post-expansion,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),pre-expansion,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),pre-sequence,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),preference organisation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),preference organization,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),progressivity,Sidnell & Stivers (2012),0,0,Validated (ambiguous; concordance-checked)
+Conversation analysis (interaction-as-object),projectability,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),recipiency,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),recipient design,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),repair,Sidnell & Stivers (2012),0,0,Validated (ambiguous; concordance-checked)
+Conversation analysis (interaction-as-object),repair initiation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),second pair part,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),second-pair part,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),self-initiated repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),self-repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),sequence expansion,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),sequence organisation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),sequence organization,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),sequential organization,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),social action,Sidnell & Stivers (2012),0,0,Validated (ambiguous; concordance-checked)
+Conversation analysis (interaction-as-object),third position,Sidnell & Stivers (2012),0,0,Validated (ambiguous; concordance-checked)
+Conversation analysis (interaction-as-object),third-position repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),transition-relevance place,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),transition-space repair,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),trouble source,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),turn allocation,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),turn construction,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),turn design,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),turn-constructional unit,Sidnell & Stivers (2012),0,0,Validated
+Conversation analysis (interaction-as-object),turn-taking,Sidnell & Stivers (2012),0,0,Validated
+Pragmatics (meaning-in-interaction),face,Verschueren & Östman (2022),28,10,"Excluded — idiom 'face a challenge/limitation', not Goffmanian face"
+Pragmatics (meaning-in-interaction),common ground,Verschueren & Östman (2022),2,1,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),accommodation,Verschueren & Östman (2022),1,0,"Excluded — place where someone stays or lives, not linguistic accommodation"
+Pragmatics (meaning-in-interaction),politeness,Verschueren & Östman (2022),1,0,Excluded — recommender attribute
+Pragmatics (meaning-in-interaction),backchannel,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),conversational implicature,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),deixis,Verschueren & Östman (2022),0,0,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),face-work,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),facework,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),felicity condition,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),footing,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),illocutionary force,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),implicature,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),impoliteness,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),indexicality,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),listener response,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),mutual knowledge,Verschueren & Östman (2022),0,0,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),participation framework,Verschueren & Östman (2022),0,0,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),silence,Verschueren & Östman (2022),0,0,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),speech act,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),speech acts,Verschueren & Östman (2022),0,0,Validated
+Pragmatics (meaning-in-interaction),stance,Verschueren & Östman (2022),0,0,Validated (ambiguous; concordance-checked)
+Pragmatics (meaning-in-interaction),terms of address,Verschueren & Östman (2022),0,0,Validated
+HCI / CUI (interaction-as-interface),trust,Namvarpour & Razi (2025); Wagner et al. (2025),26,12,Validated (ambiguous; concordance-checked)
+HCI / CUI (interaction-as-interface),engagement,Namvarpour & Razi (2025); Wagner et al. (2025),21,5,Validated (ambiguous; concordance-checked)
+HCI / CUI (interaction-as-interface),mixed-initiative,Namvarpour & Razi (2025); Wagner et al. (2025),7,5,Validated
+HCI / CUI (interaction-as-interface),rapport,Namvarpour & Razi (2025); Wagner et al. (2025),5,4,Validated
+HCI / CUI (interaction-as-interface),dialogue state tracking,Namvarpour & Razi (2025); Wagner et al. (2025),4,4,Validated
+HCI / CUI (interaction-as-interface),naturalness,Namvarpour & Razi (2025); Wagner et al. (2025),4,2,Validated (ambiguous; concordance-checked)
+HCI / CUI (interaction-as-interface),anthropomorphism,Namvarpour & Razi (2025); Wagner et al. (2025),3,1,Validated
+HCI / CUI (interaction-as-interface),empathy,Namvarpour & Razi (2025); Wagner et al. (2025),3,2,Validated (ambiguous; concordance-checked)
+HCI / CUI (interaction-as-interface),multi-party,Namvarpour & Razi (2025); Wagner et al. (2025),2,2,Validated
+HCI / CUI (interaction-as-interface),breakdown,Namvarpour & Razi (2025); Wagner et al. (2025),1,1,Validated (ambiguous; concordance-checked)
+HCI / CUI (interaction-as-interface),multi-user,Namvarpour & Razi (2025); Wagner et al. (2025),1,0,Validated
+HCI / CUI (interaction-as-interface),attentive listening,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),conversational breakdown,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),conversational style,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),error handling,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),error recovery,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),miscommunication,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),mixed initiative,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated
+HCI / CUI (interaction-as-interface),repair strategies,Namvarpour & Razi (2025); Wagner et al. (2025),0,0,Validated

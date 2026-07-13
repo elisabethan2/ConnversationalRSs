@@ -1,0 +1,8 @@
+cluster,n_terms,total_occurrences,avg_year_occ_weighted,top_terms,all_terms,cluster_name
+7,2,42,2018.8,"reinforcement learning, user study",reinforcement learning; user study,
+2,4,471,2021.2,"conversational recommender systems, recommender systems, ontology, user modeling",conversational recommender systems; recommender systems; ontology; user modeling,
+1,7,260,2021.3,"conversational recommendation, dialogue systems, critiquing, preference elicitation, conversational search, online learning, recommendation",conversational recommendation; dialogue systems; critiquing; preference elicitation; conversational search; online learning; recommendation,
+3,3,45,2021.9,"chatbot, personalization, user experience",chatbot; personalization; user experience,
+4,3,97,2022.3,"knowledge graph, natural language processing, conversational agents",knowledge graph; natural language processing; conversational agents,
+5,2,25,2023.1,"evaluation, user simulation",evaluation; user simulation,
+6,2,92,2024.8,"large language models, prompt learning",large language models; prompt learning,

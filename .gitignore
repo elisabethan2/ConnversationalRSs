@@ -1,0 +1,33 @@
+# --- Raw bibliographic exports: publisher/database ToS restricts redistribution ---
+savedrecs.xls
+scopus_export*.csv
+
+# --- Merged corpus holds verbatim abstracts (publisher copyright) — keep local ---
+merged_scopus_wos_*.csv
+
+# --- Outputs that reproduce fragments of abstracts: decide per your reuse policy ---
+# KWIC windows and definition sentences contain short excerpts of copyrighted text.
+# Uncomment to exclude if you don't want fragments in the public repo:
+# kwic_*.csv
+# definitions_*.csv
+
+# --- Python / environment noise ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+
+data/savedrecs*
+savedrecs*
+
+data/savedrecs*
+savedrecs*
+
+data/savedrecs*
+savedrecs*

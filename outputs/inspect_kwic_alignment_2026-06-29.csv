@@ -1,0 +1,34 @@
+left,hit,right,title
+omprehensive validation framework that combines statistical ,alignment,", a human-likeness score, and counterfactual validation to t",ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in
+"behavior discrepancy. To fill this gap, we propose Behavior ",Alignment,", a new evaluation metric to measure how well the recommenda",Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Rec
+"also improve UX in multiple aspects, such as usefulness and ",alignment, with user preferences. These findings provide valuable insi,A cross-domain study on the user experience of ChatGPT-based recommendations
+"d by the Authors, are included below.1.""On the distribution ",alignment," of propagation in graph neural networks""[AI Open, 2022; 3:2",Erratum regarding Declaration of Competing Interest statements in previously pub
+uential Recommendation; personalized Education with Ranking ,Alignment, Recommendation; HierLLM: Hierarchical Large Language Model ,"30th International Conference on Database Systems for Advanced Applications, DAS"
+"dule and a conversation module, respectively. By exchanging ",alignment," signals, DICR achieves bidirectional promotion between reco",Aligning Recommendation and Conversation via Dual Imitation
+tates penalty give up This paper shows that implicit signal ,alignment, can be efficient in achieving scalable and user-adaptive de,RLHF Fine-Tuning of LLMs for Alignment with Implicit User Feedback in Conversati
+"hua-Bosch Joint ML Center.""A comprehensive survey of entity ",alignment," for knowledge graphs""[AI Open, 2021; 2:1–13] https://doi.or",Erratum regarding Declaration of Competing Interest statements in previously pub
+"recommendation corpora. Based on this, they design specific ",alignment," strategies (e.g., prompt learning and instruction tuning) t",Search-Based Interaction For Conversation Recommendation via Generative Reward M
+"appeared in previous issues of AI Open.""On the distribution ",alignment," of propagation in graph neural networks""[AI Open, 2022; 3:2",Erratum regarding Declaration of Competing Interest statements in previously pub
+RLHF Fine-Tuning of LLMs for ,Alignment, with Implicit User Feedback in Conversational Recommenders.,RLHF Fine-Tuning of LLMs for Alignment with Implicit User Feedback in Conversati
+"ck. Upon receiving the preference feedback, the agents used ",alignment, and Pareto optimization for aligning preferences and balanc,Towards Aligning Personalized AI Agents with Users’ Privacy Preference
+"r’s feedback to clarifying questions. As such, the semantic ",alignment, and explicit KG reasoning can jointly facilitate accurate r,Explicit Knowledge Graph Reasoning for Conversational Recommendation
+"graph(KG), text, and image features, which uses cross-modal ",alignment," to solve semantic sparsity. Secondly, we adopt a position-a",Multimodal Knowledge-Enhanced Sequence Modeling Method for Conversational Recomm
+re-Aligned Knowledge Tracing; joint User and Item Prototype ,Alignment, for Cross-Platform Recommendation; diffusion Multi-behavior,"30th International Conference on Database Systems for Advanced Applications, DAS"
+stems perform than existing evaluation metrics. As Behavior ,Alignment, requires explicit and costly human annotations on the recom,Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Rec
+tive and Negative Preferences in Sign-Aware Recommendation; ,Alignment,-Uniformity Aware Feature Representation Learning for CTR Pr,"30th International Conference on Database Systems for Advanced Applications, DAS"
+ Activation Vector (CAV) inspired approach to determine the ,alignment, of item keyphrase properties with latent user preferences i,Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender 
+e evaluations confirm improved explanation quality and user ,alignment,. ©2026 Association for Computational Linguistics.,Toward Safe and Human-Aligned Game Conversational Recommendation via Multi-Agent
+that deviate from users’ core preferences by proposing dual ,alignment," outlier items masking, which identifies and masks such item",CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conve
+-specific fine-tuning with retrieval can improve contextual ,alignment, with reference recommendations and support more varied resp,Lily: A Perfume Conversational Recommender System Fine-Tuned GPT-OSS-20B with Re
+uch as the genre or director of a movie. We also propose an ,alignment, loss to further integrate KG entities into the response gen,Toward Knowledge-Enriched Conversational Recommendation Systems
+"a-Bosch Joint ML Center.2.""A comprehensive survey of entity ",alignment," for knowledge graphs""[AI Open, 2021; 2:1–13] https://doi.or",Erratum regarding Declaration of Competing Interest statements in previously pub
+rst reframes automatically controlling users’ privacy as an ,alignment," problem, where AI agents initially did not know users’ pref",Towards Aligning Personalized AI Agents with Users’ Privacy Preference
+rate the two modules. Existing works either design semantic ,alignment," strategies, or share knowledge resources and representation",Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt
+y re-ranks top candidates through LLM-driven intent-product ,alignment," to deliver justified recommendations. Crucially, TTR is des",Think Then Recommend: An LLM-Powered Multi-Agent Framework for Personalized Conv
+Behavior ,Alignment,: A New Perspective of Evaluating LLM-based Conversational R,Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Rec
+eferences using specialized supervision signals. A semantic ,alignment," module harmonizes heterogeneous inputs, reducing noise and ",Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and 
+"dule and a conversation module, respectively. By exchanging ",alignment," signals, DICR achieves bidirectional promotion between reco",Aligning Recommendation and Conversation via Dual Imitation
+on maximization constraint is further proposed for semantic ,alignment, between the embedding spaces of utterances and KG entities.,Explicit Knowledge Graph Reasoning for Conversational Recommendation
+ers with Evolving Strategies; Affective Resonance to Agency ,Alignment,: Sense of Agency in Human-Centered AI; do the Instruction-F,"22nd Pacific Rim International Conference on Artificial Intelligence, PRICAI 202"
+th latent user preferences in VAE-CF. BK-VAE leverages this ,alignment, in a Bayesian framework to model uncertainty in a user's la,Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender 
+ssification-based method to implicitly measure the Behavior ,Alignment, based on the responses. The evaluation results confirm the ,Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Rec

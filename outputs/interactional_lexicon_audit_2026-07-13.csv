@@ -1,0 +1,91 @@
+layer,term,source,ambiguous,excluded_after_inspection,exclusion_reason,n_records,n_records_near_node
+CA_core,coherence,Sidnell & Stivers (2012),True,True,"response fluency/quality, not sequential coherence",8,5
+CA_core,next turn,Sidnell & Stivers (2012),True,True,"system's next action step, not the CA next turn",4,1
+CA_core,overlap,Sidnell & Stivers (2012),True,True,"data/feature overlap, not turn overlap",4,0
+CA_core,action formation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,adjacency pair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,adjacency pairs,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,dispreferred,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,first pair part,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,first-pair part,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,insert expansion,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,intersubjectivity,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,membership categorisation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,membership categorization,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,next-speaker selection,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,nextness,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,other-initiated repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,other-repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,overall structural organization,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,post-expansion,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,pre-expansion,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,pre-sequence,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,preference organisation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,preference organization,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,progressivity,Sidnell & Stivers (2012),True,False,,0,0
+CA_core,projectability,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,recipiency,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,recipient design,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,repair,Sidnell & Stivers (2012),True,False,,0,0
+CA_core,repair initiation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,second pair part,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,second-pair part,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,self-initiated repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,self-repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,sequence expansion,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,sequence organisation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,sequence organization,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,sequential organization,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,social action,Sidnell & Stivers (2012),True,False,,0,0
+CA_core,third position,Sidnell & Stivers (2012),True,False,,0,0
+CA_core,third-position repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,transition-relevance place,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,transition-space repair,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,trouble source,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,turn allocation,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,turn construction,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,turn design,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,turn-constructional unit,Sidnell & Stivers (2012),False,False,,0,0
+CA_core,turn-taking,Sidnell & Stivers (2012),False,False,,0,0
+hci_cui,trust,Namvarpour & Razi (2025); Wagner et al. (2025),True,False,,26,12
+hci_cui,engagement,Namvarpour & Razi (2025); Wagner et al. (2025),True,False,,21,5
+hci_cui,mixed-initiative,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,7,5
+hci_cui,rapport,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,5,4
+hci_cui,dialogue state tracking,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,4,4
+hci_cui,naturalness,Namvarpour & Razi (2025); Wagner et al. (2025),True,False,,4,2
+hci_cui,anthropomorphism,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,3,1
+hci_cui,empathy,Namvarpour & Razi (2025); Wagner et al. (2025),True,False,,3,2
+hci_cui,multi-party,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,2,2
+hci_cui,breakdown,Namvarpour & Razi (2025); Wagner et al. (2025),True,False,,1,1
+hci_cui,multi-user,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,1,0
+hci_cui,attentive listening,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,conversational breakdown,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,conversational style,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,error handling,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,error recovery,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,miscommunication,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,mixed initiative,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+hci_cui,repair strategies,Namvarpour & Razi (2025); Wagner et al. (2025),False,False,,0,0
+pragmatics,face,Verschueren & Östman (2022),True,True,"idiom 'face a challenge/limitation', not Goffmanian face",28,10
+pragmatics,common ground,Verschueren & Östman (2022),True,False,,2,1
+pragmatics,accommodation,Verschueren & Östman (2022),True,True,"place where someone stays or lives, not linguistic accommodation",1,0
+pragmatics,politeness,Verschueren & Östman (2022),False,True,recommender attribute,1,0
+pragmatics,backchannel,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,conversational implicature,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,deixis,Verschueren & Östman (2022),True,False,,0,0
+pragmatics,face-work,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,facework,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,felicity condition,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,footing,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,illocutionary force,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,implicature,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,impoliteness,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,indexicality,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,listener response,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,mutual knowledge,Verschueren & Östman (2022),True,False,,0,0
+pragmatics,participation framework,Verschueren & Östman (2022),True,False,,0,0
+pragmatics,silence,Verschueren & Östman (2022),True,False,,0,0
+pragmatics,speech act,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,speech acts,Verschueren & Östman (2022),False,False,,0,0
+pragmatics,stance,Verschueren & Östman (2022),True,False,,0,0
+pragmatics,terms of address,Verschueren & Östman (2022),False,False,,0,0

@@ -1,0 +1,41 @@
+left,hit,right,title
+"ty in marketing, yet existing systems often lack behavioral ",grounding," and multichannel sensitivity, limiting their effectiveness ",Creativity-Driven Growth: Unlocking the Value of Generative AI in Multichannel M
+riven Conversation Generation framework (MGCG) with a graph-,grounded, goal planning module and a goal-guided responding module. T,Graph-Grounded Goal Planning for Conversational Recommendation
+"structured prompts for LLM reasoning, enabling contextually ",grounded, recommendations without task-specific training. Extensive e,Graph Retrieval-Augmented LLM for Conversational Recommendation Systems
+ffectiveness in domain-specific CRS tasks for 1) generating ,grounded," responses with recommendation-oriented knowledge, or 2) pro",ChatCRS: Incorporating External Knowledge and Goal Guidance for LLM-based Conver
+cing accuracy with interaction design and yield empirically ,grounded, implications for integrating recommender systems into conve,ImpReSS: Designing and Evaluating a Lightweight Implicit Recommender System in C
+nd explainability in adaptive systems through user modeling ,grounded, in psychological theory: summary; and fourth workshop on ex,"26th International Conference on Intelligent User Interfaces, IUI 2021 Companion"
+"ogue types, task-oriented dialogue for diagnosis, knowledge-",grounded," dialogue, conversational recommendation, empathetic dialogu",STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Cou
+PEARL: A Review-Driven Persona-Knowledge ,Grounded, Conversational Recommendation Dataset. Conversational recom,PEARL: A Review-Driven Persona-Knowledge Grounded Conversational Recommendation 
+"ional recommendation, dialogue summarization, and knowledge-",grounded," dialogues, making it an incredibly rich and diverse resourc",DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Co
+Context-Aware and Knowledge-,Grounded, Conversational Recommendation with Prompt Learning. Convers,Context-Aware and Knowledge-Grounded Conversational Recommendation with Prompt L
+"nd FashionIQ Shirts & Dresses datasets. In particular, as a ",ground," truth, we measure conversation difficulty by the effectiven",Performance Predictors for Conversational Fashion Recommendation
+"em performance. We develop Syn-WSSE, a psycholinguistically-",grounded, framework for synthetically creating genre-based WSSE at va,I want a horror - comedy - movie: Slips-of-the-Tongue Impact Conversational Reco
+es instead of passively waiting for the user to control. To ,ground," this shift, and using personalized conversational recommend",Towards Aligning Personalized AI Agents with Users’ Privacy Preference
+the metrics for comparing a newly generated response with a ,ground," truth do not correlate with human perceptions, because vari",INFACT: An Online Human Evaluation Framework for Conversational Recommendation
+"s paper proposes ICD4CR, a causal decision-making framework ",grounded, in in-context decision-making principles. Leveraging large ,Supervised Pretraining for in-Context Decision in Conversational Service Recomme
+aluation protocol. It might overemphasize the matching with ,ground,-truth items annotated by humans while neglecting the intera,Rethinking the Evaluation for Conversational Recommendation in the Era of Large 
+"Ms) to automatically simulate realistic, multi-turn dialogs ",grounded, in real timestamped user-item interactions and user reviews,Generating Conversational Recommendation Datasets from Real User Interactions
+"luations confirm the naturalness, coherence, and behavioral ",grounding," of the generated conversations. To demonstrate utility, we ",Generating Conversational Recommendation Datasets from Real User Interactions
+AID: Hypothesis-,Grounded, Probing for Conversational Recommendation. In many enterpri,AID: Hypothesis-Grounded Probing for Conversational Recommendation
+"led comparative experiment between a baseline model, Gemma3-",Ground,", and the proposed model, Gemma3-Chase, fine-tuned on a corp",A Neuro-Symbolic AI Approach for a Conversational Workout Plan Recommender Syste
+rsonalized experience for the user under the proposed multi-,groundtruth, multi-round conversational recommendation setting.  © 2023 ,Enhancing User Personalization in Conversational Recommenders
+e in various scenarios. We conduct experiments on knowledge ,grounded," dialog, recommendation dialog, and persona based dialog tas",MSDF: A General Open-Domain Multi-skill Dialog Framework
+"ogue types, task-oriented dialogue for diagnosis, knowledge-",grounded," dialogue, conversational recommendation, empathetic dialogu",STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Cou
+" solely on freeform text generation, the proposed assistant ",grounds, its recommendations in retrieved evidence from publicly ava,Multi-Agent Retrieval-Augmented Conversational Systems for End-to-End Autonomous
+"SUSER, an evaluation protocol with LLM-based user simulator ",grounded, in real-world behavioral data by modeling fine-grained user,Towards Personalized Conversational Sales Agents: Contextual User Profiling for 
+ch can be applied in different dialog tasks (e.g. knowledge ,grounded," dialog and persona based dialog). Specifically, we propose ",MSDF: A General Open-Domain Multi-skill Dialog Framework
+"ills compact item-level semantics from reviews with an LLM, ",grounds, the distilled concepts to canonical knowledge-graph entitie,Densifying Knowledge Hypergraphs with LLM-based review distillation for conversa
+PEARL: A Review-Driven Persona-Knowledge ,Grounded, Conversational Recommendation Dataset. Conversational recom,PEARL: A Review-Driven Persona-Knowledge Grounded Conversational Recommendation 
+ains challenging due to the lack of conversational datasets ,grounded," in real user behavior. We present ConvRecStudio, a novel fr",Generating Conversational Recommendation Datasets from Real User Interactions
+ti-modal Large Language Models; context-Aware and Knowledge-,Grounded, Conversational Recommendation with Prompt Learning; Best of,"22nd Pacific Rim International Conference on Artificial Intelligence, PRICAI 202"
+"he tag genome, and we evaluate several learning models on a ",ground, truth dataset provided by users. We describe an application,The tag genome: Encoding community knowledge to support novel interaction
+Graph-,Grounded, Goal Planning for Conversational Recommendation. Conversati,Graph-Grounded Goal Planning for Conversational Recommendation
+timodal Conversational Recommendation Dataset with Scenario-,Grounded, User Profiles. Current conversational recommendation system,MUSE: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded 
+fic beliefs in the respective representations of the common ,ground,", to act towards a common goal. The goal of such systems is ",Linguistics-based dialogue simulations to evaluate argumentative conversational 
+"re, we propose GraphPromptCRS, a prompt-based and knowledge-",grounded, CRS framework that jointly performs recommendation and resp,Context-Aware and Knowledge-Grounded Conversational Recommendation with Prompt L
+"ons. To address this limitation, in my Ph.D. project I will ",ground, on the principles of Symbiotic AI (SAI) to propose a novel ,Towards Symbiotic Recommendations: Leveraging LLMs for Conversational Recommenda
+ications and the provisioning of shared knowledge as common ,ground, to specific questions of interaction and conversation desig,Challenges in Integrating Conversational AI and GUI-Based Applications
+s showed that Gemma3-Chase consistently outperformed Gemma3-,Ground," significantly across key metrics, especially on effectivene",A Neuro-Symbolic AI Approach for a Conversational Workout Plan Recommender Syste
+"trics, especially on effectiveness, semantic relevance, and ",groundedness,. The neuro-symbolic model also had a much smaller standard ,A Neuro-Symbolic AI Approach for a Conversational Workout Plan Recommender Syste
+"led MGConvRex with 7K+ human-to-human role-playing dialogs, ",grounded, on a large-scale user memory bootstrapped from real-world u,User Memory Reasoning for Conversational Recommendation

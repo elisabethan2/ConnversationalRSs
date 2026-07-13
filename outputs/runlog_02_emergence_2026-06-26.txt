@@ -1,0 +1,8 @@
+Emergence curve built.
+  records with a year: 866
+  year range: 2001-2026
+  share 2020+: 80%
+  peak year: 2025 (150 records)
+  figure -> ConnversationalRSs/outputs/figures/fig1_emergence_curve_2026-06-26.png
+  data   -> ConnversationalRSs/outputs/fig1_emergence_data_2026-06-26.csv
+  env: python 3.13.12, pandas 2.3.3, matplotlib 3.10.9  (2026-06-26 15:18)

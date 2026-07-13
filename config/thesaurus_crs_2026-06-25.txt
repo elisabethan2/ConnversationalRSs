@@ -1,0 +1,80 @@
+label	replace by
+agent	agents
+ai agent	ai agents
+case based recommendation	case-based recommendation
+chat-bot	chat bot
+chatbots	chatbot
+cold start	cold-start
+conversational agent	conversational agents
+conversational recommendation system	conversational recommender systems
+conversational recommendation systems	conversational recommender systems
+conversational recommendations	conversational recommendation
+conversational recommender	conversational recommender systems
+conversational recommender system	conversational recommender systems
+conversational recommenders	conversational recommender systems
+conversations	conversation
+crs	conversational recommender systems
+dataset	datasets
+decision making	decision-making
+dialog generation	dialogue generation
+dialog strategy	dialogue strategy
+dialog system	dialogue systems
+dialog systems	dialogue systems
+dialogue system	dialogue systems
+e-commerce application	e-commerce applications
+explainable recommendations	explainable recommendation
+explanations	explanation
+functional requirement	functional requirements
+gnn	graph neural network
+graph neural networks	graph neural network
+hci	human-computer interaction
+human computer interaction	human-computer interaction
+intelligent assistant	intelligent assistants
+intelligent user interface	intelligent user interfaces
+interactive recommendations	interactive recommendation
+interactive recommender system	interactive recommender systems
+kg	knowledge graph
+knowledge based recommender system	knowledge-based recommender system
+knowledge graphs	knowledge graph
+knowledge-based recommendation	knowledge based recommendation
+knowledge-grounded dialogue	knowledge grounded dialog
+language model	language models
+large language model	large language models
+llm	large language models
+llms	large language models
+memory networks	memory network
+meta-intents	meta intents
+multi agents	multi-agent
+multi-agent system	multi-agent systems
+multi-agents	multi-agent
+multimodal dialog system	multimodal dialogue system
+music recommender system	music recommender systems
+named entity recognition	named-entity recognition
+nlp	natural language processing
+personalized recommendations	personalized recommendation
+post hoc explanation	post-hoc explanation
+pre-trained language models	pre-trained language model
+preference based feedback	preference-based feedback
+product functional requirement	product functional requirements
+prompt tuning	prompt-tuning
+recipe recommendations	recipe recommendation
+recommendation system	recommender systems
+recommendation systems	recommender systems
+recommendations	recommendation
+recommender system	recommender systems
+rl	reinforcement learning
+social robot	social robots
+social signal	social signals
+socially aware	socially-aware
+task-oriented dialogue system	task-oriented dialogue systems
+task-oriented dialogues	task-oriented dialogue
+transformers	transformer
+user centric	user-centric
+user interfaces	user interface
+user preferences	user preference
+user studies	user study
+conversational recommendation system (crs)	conversational recommender systems
+conversational recommender system (crs)	conversational recommender systems
+large language models (llm)	large language models
+large language models (llms)	large language models
+user modelling	user modeling
