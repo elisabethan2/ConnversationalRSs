@@ -9,6 +9,25 @@ conversational-recommender-systems (CRS) literature conceptualises conversation.
 - `docs/run_log.md` — inputs, outputs, and dates for each run
 - `requirements.txt` — exact package versions
 
+## VOSviewer maps (`outputs/VOSViewerOutputFiles/`)
+
+The co-occurrence maps (Figures 2–4) and the cluster typology (Table 2) were
+produced with VOSviewer (Van Eck & Waltman, 2010), a GUI tool, not by the
+scripts in `code/`. This folder holds the exported maps and their underlying
+network/cluster tables so the clustering can be inspected.
+
+Filename key: `Min<n>` = minimum keyword occurrences; `Res<r>` = clustering
+resolution; `keyword`/`Author` = unit of co-occurrence. Files are dated
+250626 (25 June 2026). Inputs to VOSviewer: the merged corpus (not shared;
+see below) and the thesaurus in `config/`.
+
+| Paper item | File |
+|---|---|
+| Fig. 2 Co-occurrence overview | `Min5occurencesResolution0_6_250626.png` (or `10keywordsres1.png`) |
+| Fig. 3 Overlay-by-year | `OverlayVisualizationResolution0_6_min5keywords250626.png` |
+| Fig. 4 Long-tail era map | `3keywords0_7resolution250626.png` |
+| Table 2 Cluster typology | `clustertable_Min5_Res0_6_250626.csv`, `clusterterms_Min5_Res0_6_250626.csv` |
+
 ## What is NOT included, and why
 
 The raw Scopus and Web of Science exports and the merged corpus are **not**
