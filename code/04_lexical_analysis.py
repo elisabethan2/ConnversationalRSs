@@ -465,8 +465,10 @@ def main():
     node_spans = [[(m.start(), m.end()) for m in KWIC_PATTERN.finditer(t)]
                   for t in df["text"]]
     audit = []
+    layer_records = defaultdict(set)      # record-level union per layer (validated terms only)
     for layer, terms in INTERACTIONAL_LEXICON.items():
         for term in sorted(terms):
+            excluded = term in EXCLUDE_AFTER_INSPECTION
             pat = re.compile(r"\b" + re.escape(term) + r"\b", re.I)
             nrec = nnear = 0
             for i, t in enumerate(df["text"]):
@@ -474,6 +476,8 @@ def main():
                 if not ms:
                     continue
                 nrec += 1
+                if not excluded:
+                    layer_records[layer].add(i)
                 if any(ns[0] - KWIC_CONTEXT <= s <= ns[1] + KWIC_CONTEXT
                        for s in ms for ns in node_spans[i]):
                     nnear += 1
@@ -501,12 +505,15 @@ def main():
     nice = {"CA_core": "Conversation analysis\n(interaction-as-object)",
             "pragmatics": "Pragmatics\n(meaning-in-interaction)",
             "hci_cui": "HCI / CUI\n(interaction-as-interface)"}
-    ls = layer_sum.set_index("layer").reindex(order)
-    vals = [int(ls.loc[l, "hits_validated"]) if l in ls.index else 0 for l in order]
+    vals = [len(layer_records.get(l, set())) for l in order]
+    pd.DataFrame([{"layer": l, "n_records_union": len(layer_records.get(l, set())),
+                   "pct_of_866": round(100 * len(layer_records.get(l, set())) / len(df), 2)}
+                  for l in order]).to_csv(
+        OUT_DIR / f"interactional_layer_union_{RUN_DATE}.csv", index=False)
     fig, ax = plt.subplots(figsize=(8, 4.6))
     ax.bar([nice[l] for l in order], vals,
            color=["#e45756", "#f0a35e", "#4c78a8"], width=0.6)
-    ax.set_ylabel("Validated record-hits (of 866)")
+    ax.set_ylabel("Records with ≥1 validated term (of 866)")
     for i, v in enumerate(vals):
         ax.text(i, v, str(v), ha="center", va="bottom", fontsize=10)
     ax.spines[["top", "right"]].set_visible(False)
@@ -582,6 +589,7 @@ def main():
                            str(OUT_DIR / f"register_by_band_{RUN_DATE}.csv"),
                            str(OUT_DIR / f"register_hits_{RUN_DATE}.csv"),
                            str(OUT_DIR / f"interactional_lexicon_audit_{RUN_DATE}.csv"),
+                           str(OUT_DIR / f"interactional_layer_union_{RUN_DATE}.csv"),
                            str(FIG_DIR / f"fig_register_asymmetry_{RUN_DATE}.png"),
                            str(OUT_DIR / f"kwic_{RUN_DATE}.csv"),
                            str(OUT_DIR / f"definitions_{RUN_DATE}.csv")],
